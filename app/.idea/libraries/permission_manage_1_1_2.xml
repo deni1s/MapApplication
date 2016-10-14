@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="permission-manage-1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.auron/permission-manage/1.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.auron/permission-manage/1.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.auron/permission-manage/1.1.2/fd91daca35d5156650af7b6c9b5b95f06ab28cb0/permission-manage-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
